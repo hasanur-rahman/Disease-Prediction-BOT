@@ -1,0 +1,1 @@
+python C:\xampp\htdocs\server\BOT2\prediction.py back_pain headache

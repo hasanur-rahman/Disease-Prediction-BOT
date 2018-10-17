@@ -1,0 +1,36 @@
+[12-Oct-2018 15:13:52 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdApp.php on line 310
+[12-Oct-2018 15:24:12 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdApp.php on line 485
+[12-Oct-2018 15:24:21 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdApp.php on line 492
+[12-Oct-2018 15:24:30 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdApp.php on line 1391
+[12-Oct-2018 15:32:09 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdApp2.php on line 316
+[12-Oct-2018 15:48:16 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdApp2.php on line 491
+[12-Oct-2018 15:48:16 Europe/Berlin] PHP Notice:  Undefined index: promt in C:\xampp\htdocs\server\SampleUssdApp2.php on line 1424
+[12-Oct-2018 15:48:16 Europe/Berlin] PHP Notice:  Undefined index: promt in C:\xampp\htdocs\server\SampleUssdApp2.php on line 1425
+[12-Oct-2018 15:53:54 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdApp2.php on line 1413
+[12-Oct-2018 15:55:28 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdApp2.php on line 316
+[12-Oct-2018 15:58:20 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdApp2.php on line 1413
+[12-Oct-2018 16:15:50 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdApp.php on line 310
+[12-Oct-2018 19:11:47 Europe/Berlin] PHP Notice:  Undefined index: f in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1774
+[12-Oct-2018 19:11:47 Europe/Berlin] PHP Notice:  Undefined index: f in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1775
+[12-Oct-2018 19:22:17 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 19:29:19 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 376
+[12-Oct-2018 19:30:28 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 19:32:46 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 376
+[12-Oct-2018 19:34:16 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 19:34:47 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 376
+[12-Oct-2018 19:35:21 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 19:50:34 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 376
+[12-Oct-2018 19:52:52 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 19:56:24 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 376
+[12-Oct-2018 19:58:11 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 20:02:59 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 376
+[12-Oct-2018 20:04:13 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 20:09:57 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 376
+[12-Oct-2018 20:11:15 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1738
+[12-Oct-2018 21:50:44 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 384
+[12-Oct-2018 21:51:18 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1746
+[12-Oct-2018 22:13:29 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 384
+[12-Oct-2018 22:29:18 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1746
+[12-Oct-2018 23:16:36 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 384
+[12-Oct-2018 23:26:36 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 1746
+[13-Oct-2018 05:04:07 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\server\SampleUssdAppSami.php on line 384

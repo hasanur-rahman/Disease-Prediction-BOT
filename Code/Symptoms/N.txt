@@ -1,0 +1,3 @@
+nodal_skin_eruptions
+nausea
+neck_pain

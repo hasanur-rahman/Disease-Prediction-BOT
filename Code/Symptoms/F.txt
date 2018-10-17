@@ -1,0 +1,6 @@
+fatigue
+fluid_overload
+fast_heart_rate
+foul_smell_of urine
+family_history
+fluid_overload

@@ -1,0 +1,5 @@
+weight_gain
+weight_loss
+weakness_in_limbs
+weakness_of_one_body_side
+watering_from_eyes

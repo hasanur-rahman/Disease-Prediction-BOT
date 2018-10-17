@@ -1,0 +1,5 @@
+lethargy
+loss_of_appetite
+loss_of_balance
+loss_of_smell
+lack_of_concentration

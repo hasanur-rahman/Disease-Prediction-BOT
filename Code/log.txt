@@ -1,0 +1,1010 @@
+[ content=*124#, address=tel:94771122336, requestId=1539340490472, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1539340505160, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=1, address=tel:94771122336, requestId=1539340511691, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+push : Array
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=2, address=tel:94771122336, requestId=1539340523410, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+push : Array
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=000, address=tel:94771122336, requestId=1539340531223, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+session len : 2
+symtoms len : 2
+symtom :Array
+output ['Arthritis']
+
+[ content=*124#, address=tel:94771122336, requestId=1539341188612, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1539341209956, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=1, address=tel:94771122336, requestId=1539341223659, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=1, address=tel:94771122336, requestId=1539341272050, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+push : Array
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=2, address=tel:94771122336, requestId=1539341277457, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+push : Array
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=7, address=tel:94771122336, requestId=1539341348348, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=000, address=tel:94771122336, requestId=1539341376723, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+session len : 2
+symtoms len : 2
+symtom :Array
+output ['Arthritis']
+
+[ content=*123#, address=tel:94771122336, requestId=1539350031669, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=*123#, address=tel:94771122336, requestId=1539350620929, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=1, address=tel:94771122336, requestId=1539350639320, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=1, address=tel:94771122336, requestId=1539350651648, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+push : Array
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=2, address=tel:94771122336, requestId=1539350660289, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+push : Array
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=000, address=tel:94771122336, requestId=1539350669570, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+session len : 2
+symtoms len : 2
+symtom :Array
+output ['Arthritis']
+
+[ content=*123#, address=tel:94771122336, requestId=1539351128170, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=*123#, address=tel:94771122336, requestId=1539351184546, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=*123#, address=tel:94771122336, requestId=1539351282453, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=*123#, address=tel:94771122336, requestId=1539351376860, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=*123#, address=tel:94771122336, requestId=1539352068956, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=1, address=tel:94771122336, requestId=1539352086753, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=1, address=tel:94771122336, requestId=1539352095207, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+push : Array
+Selected response message := 
+[ content=*123#, address=tel:94771122336, requestId=1539352240927, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := promt
+[ content=1, address=tel:94771122336, requestId=1539352262162, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=3, address=tel:94771122336, requestId=1539352273506, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539352285600, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=2, address=tel:94771122336, requestId=1539352307959, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.burning_micturition
+    2.breathlessness
+    3.back_pain
+    4.blurred_and_distorted_vision
+    5.bloody_stool
+    6.bruising
+    7.next
+    8.back to main
+[ content=5, address=tel:94771122336, requestId=1539352333006, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := b1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539352343022, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539352365022, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=1, address=tel:94771122336, requestId=1539352386132, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := No symptoms available!
+    1.back to main
+[ content=1, address=tel:94771122336, requestId=1539352394570, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := g
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=5, address=tel:94771122336, requestId=1539352408007, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := 1.knee_pain
+    2.back to main
+[ content=1, address=tel:94771122336, requestId=1539352423632, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := k
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539352433617, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 3
+symtom :Array
+output ['Dimorphic hemmorhoids(piles)']
+
+[ content=*123#, address=tel:94771122336, requestId=1539352527540, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=6, address=tel:94771122336, requestId=1539352539556, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=6, address=tel:94771122336, requestId=1539352547493, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of urine
+    5.family_history
+    6.fluid_overload
+    7.back to main
+[ content=5, address=tel:94771122336, requestId=1539352587010, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := f
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539352600260, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539352609447, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539352620119, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := choose symptoms
+    1.m
+    2.n
+    3.o
+    4.p
+    5.q
+    6.r
+    7.next
+    8.back
+    000.exit
+[ content=4, address=tel:94771122336, requestId=1539352632104, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main3
+Selected response message := 1.patches_in_throat
+    2.pain_behind_the_eyes
+    3.phlegm
+    4.pain_during_bowel_movements
+    5.pain_in_anal_region
+    6.puffy_face_and_eyes
+    7.passage_of_gases
+    8.next
+    9.back to main
+[ content=1, address=tel:94771122336, requestId=1539352688917, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := p1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539352698917, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 2
+symtom :Array
+output ['AIDS']
+
+[ content=*123#, address=tel:94771122336, requestId=1539353749526, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1539353764167, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.altered_sensorium
+    6.abnormal_menstruation
+    7.back to main
+[ content=#678*, address=tel:94771122336, requestId=1539364109991, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := a
+[ content=2, address=tel:94771122336, requestId=1539364127838, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.burning_micturition
+    2.breathlessness
+    3.back_pain
+    4.blurred_and_distorted_vision
+    5.next
+    6.back to main
+[ content=5, address=tel:94771122336, requestId=1539364141777, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := b1
+Selected response message := 1.brittle_nails
+    2.bladder_discomfort
+    3.belly_pain
+    4.next
+    5.back
+    6.back to main
+[ content=6, address=tel:94771122336, requestId=1539364159134, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := b2
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539364168435, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539364180455, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := choose symptoms
+    1.m
+    2.n
+    3.o
+    4.p
+    5.q
+    6.r
+    7.next
+    8.back
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539364196691, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main3
+Selected response message := choose symptoms
+    1.s
+    2.t
+    3.u
+    4.v
+    5.w
+    6.x
+    7.next
+    8.back
+    000.exit
+[ content=1, address=tel:94771122336, requestId=1539364236388, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main4
+Selected response message := 1.skin_rash
+    2.shivering
+    3.stomach_pain
+    4.spotting_urination
+    5.next
+    6.back to main
+[ content=5, address=tel:94771122336, requestId=1539364246464, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := s1
+Selected response message := 1.swelled_lymph_nodes
+    2.sinus_pressure
+    3.swollen_legs
+    4.next
+    5.back
+    6.back to main
+[ content=4, address=tel:94771122336, requestId=1539364265195, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := s2
+Selected response message := 1.spinning_movements
+    2.stomach_bleeding
+    3.scurring
+    4.next
+    5.back
+    6.back to main
+[ content=3, address=tel:94771122336, requestId=1539364285010, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := s3
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539364295239, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=6, address=tel:94771122336, requestId=1539364306760, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 
+[ content=*123#, address=tel:94771122336, requestId=1539364734908, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := f
+[ content=6, address=tel:94771122336, requestId=1539364759535, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of urine
+    5.next
+    7.back to main
+[ content=4, address=tel:94771122336, requestId=1539364784806, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := f1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539364801017, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=4, address=tel:94771122336, requestId=1539364819093, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.dehydration
+    2.dark_urine
+    3.diarrhoea
+    4.dizziness
+    5.next
+    6.back to main
+[ content=2, address=tel:94771122336, requestId=1539364832612, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := d1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539364848790, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539364865238, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539364875327, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := choose symptoms
+    1.m
+    2.n
+    3.o
+    4.p
+    5.q
+    6.r
+    7.next
+    8.back
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539364883139, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main3
+Selected response message := choose symptoms
+    1.s
+    2.t
+    3.u
+    4.v
+    5.w
+    6.x
+    7.next
+    8.back
+    000.exit
+[ content=1, address=tel:94771122336, requestId=1539364897023, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main4
+Selected response message := 1.skin_rash
+    2.shivering
+    3.stomach_pain
+    4.spotting_urination
+    5.next
+    6.back to main
+[ content=3, address=tel:94771122336, requestId=1539364918819, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := s1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539364935875, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 3
+symtom :Array
+output 
+[ content=*111#, address=tel:94771122336, requestId=1539365358154, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1539365371842, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.next
+    6.back to main
+[ content=2, address=tel:94771122336, requestId=1539365381196, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539365392962, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=5, address=tel:94771122336, requestId=1539365405967, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.enlarged_thyroid
+    2.excessive_hunger
+    3.extra_marital_contacts
+    4.back to main
+[ content=2, address=tel:94771122336, requestId=1539365417836, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := e
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539365427439, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 2
+symtom :Array
+s : anxiety
+s : excessive_hunger
+output ['Arthritis']
+
+[ content=*111#, address=tel:94771122336, requestId=1539365565670, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=6, address=tel:94771122336, requestId=1539365586495, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of urine
+    5.next
+    7.back to main
+[ content=4, address=tel:94771122336, requestId=1539365599280, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := f1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539365621043, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=4, address=tel:94771122336, requestId=1539365632663, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.dehydration
+    2.dark_urine
+    3.diarrhoea
+    4.dizziness
+    5.next
+    6.back to main
+[ content=2, address=tel:94771122336, requestId=1539365646685, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := d1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539365655819, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 2
+symtom :Array
+s : foul_smell_of urine
+s : dark_urine
+output 
+[ content=*111#, address=tel:94771122336, requestId=1539365686929, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=6, address=tel:94771122336, requestId=1539365700289, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of urine
+    5.next
+    7.back to main
+[ content=4, address=tel:94771122336, requestId=1539365710023, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := f1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539365720351, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 1
+symtom :Array
+s : foul_smell_of urine
+output 
+[ content=*123#, address=tel:94771122336, requestId=1539366633381, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=6, address=tel:94771122336, requestId=1539366652295, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of urine
+    5.next
+    7.back to main
+[ content=*111#, address=tel:94771122336, requestId=1539366738092, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := f1
+[ content=6, address=tel:94771122336, requestId=1539366752667, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of_urine
+    5.next
+    7.back to main
+[ content=4, address=tel:94771122336, requestId=1539366763747, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := f1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539366770669, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 1
+symtom :Array
+s : foul_smell_of_urine
+output ['Cervical spondylosis']
+
+[ content=*123#, address=tel:94771122336, requestId=1539366982959, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=4, address=tel:94771122336, requestId=1539367008932, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.dehydration
+    2.dark_urine
+    3.diarrhoea
+    4.dizziness
+    5.next
+    6.back to main
+[ content=5, address=tel:94771122336, requestId=1539367044051, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := d1
+Selected response message := 1.depression
+    2.dischromic_patches
+    3.distention_of_abdomen
+    4.drying_and_tingling_lips
+    5.back
+    6.back to main
+[ content=2, address=tel:94771122336, requestId=1539367052710, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := d2
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539367061832, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=6, address=tel:94771122336, requestId=1539367070404, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of_urine
+    5.next
+    7.back to main
+[ content=4, address=tel:94771122336, requestId=1539367081224, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := f1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539367090279, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 2
+symtom :Array
+s : depression
+s : foul_smell_of_urine
+output [
+[ content=*111#, address=tel:94771122336, requestId=1539367378522, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1539367393237, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=1, address=tel:94771122336, requestId=1539367427512, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.next
+    6.back to main
+[ content=3, address=tel:94771122336, requestId=1539367440317, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := a1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539367452332, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 1
+symtom :Array
+s : abdominal_pain
+output ['Arthritis']
+
+[ content=*111#, address=tel:94771122336, requestId=1539367796382, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=4, address=tel:94771122336, requestId=1539367817432, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=4, address=tel:94771122336, requestId=1539367825024, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.dehydration
+    2.dark_urine
+    3.diarrhoea
+    4.dizziness
+    5.next
+    6.back to main
+[ content=5, address=tel:94771122336, requestId=1539367843644, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := d1
+Selected response message := 1.depression
+    2.dischromic_patches
+    3.distention_of_abdomen
+    4.drying_and_tingling_lips
+    5.back
+    6.back to main
+[ content=2, address=tel:94771122336, requestId=1539367864656, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := d2
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539367873634, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 1
+symtom :Array
+s : depression
+output ['Migraine']
+
+[ content=*111#, address=tel:94771122336, requestId=1539373841831, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=000, address=tel:94771122336, requestId=1539373876331, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+session len : 0
+symtoms len : 0
+symtom :Array
+output ['Cervical spondylosis']
+
+[ content=*111#, address=tel:94771122336, requestId=1539375207362, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=*111#, address=tel:94771122336, requestId=1539375228011, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=1, address=tel:94771122336, requestId=1539375269738, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.acidity
+    2.anxiety
+    3.abdominal_pain
+    4.acute_liver_failure
+    5.next
+    6.back to main
+[ content=*111#, address=tel:94771122336, requestId=1539375939729, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := a1
+[ content=7, address=tel:94771122336, requestId=1539375972642, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=7, address=tel:94771122336, requestId=1539375996433, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539376035299, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := choose symptoms
+    1.m
+    2.n
+    3.o
+    4.p
+    5.q
+    6.r
+    7.next
+    8.back
+    000.exit
+[ content=p, address=tel:94771122336, requestId=1539376049355, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main3
+Selected response message := choose symptoms
+    1.m
+    2.n
+    3.o
+    4.p
+    5.q
+    6.r
+    7.next
+    8.back
+    000.exit
+[ content=4, address=tel:94771122336, requestId=1539376067084, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main3
+Selected response message := 1.patches_in_throat
+    2.pain_behind_the_eyes
+    3.phlegm
+    4.passage_of_gases
+    5.next
+    6.back to main
+[ content=5, address=tel:94771122336, requestId=1539376084875, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := p1
+Selected response message := 1.polyuria
+    2.prominent_veins_on_calf
+    3.palpitations
+    4.pus_filled_pimples
+    5.next
+    6.back
+    7.back to main
+[ content=1, address=tel:94771122336, requestId=1539376098532, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := p2
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539376113515, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=6, address=tel:94771122336, requestId=1539376126097, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.fatigue
+    2.fluid_overload
+    3.fast_heart_rate
+    4.foul_smell_of_urine
+    5.next
+    7.back to main
+[ content=2, address=tel:94771122336, requestId=1539376138354, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := f1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539376155999, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 2
+symtom :Array
+s : polyuria
+s : fluid_overload
+output ['Diabetes ']
+
+[ content=*111#, address=tel:94771122336, requestId=1539378994910, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:94771122336, requestId=1539379164664, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1
+[ content=2, address=tel:94771122336, requestId=1539379169658, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := 1.burning_micturition
+    2.breathlessness
+    3.back_pain
+    4.blurred_and_distorted_vision
+    5.next
+    6.back to main
+[ content=3, address=tel:94771122336, requestId=1539379237744, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := b1
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=1, address=tel:94771122336, requestId=1539379279314, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+Selected response message := choose symptoms
+    1.a
+    2.b
+    3.c
+    4.d
+    5.e
+    6.f
+    7.next
+    000.exit
+[ content=7, address=tel:94771122336, requestId=1539379293041, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main1
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=2, address=tel:94771122336, requestId=1539379309407, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := 1.high_fever
+    2.headache
+    3.hip_joint_pain
+    4.history_of_alcohol_consumption
+    5.back to main
+[ content=5, address=tel:94771122336, requestId=1539379324019, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := h
+Selected response message := choose symptoms
+    1.g
+    2.h
+    3.i
+    4.j
+    5.k
+    6.l
+    7.next
+    8.back
+    000.exit
+[ content=2, address=tel:94771122336, requestId=1539379371540, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main2
+Selected response message := 1.high_fever
+    2.headache
+    3.hip_joint_pain
+    4.history_of_alcohol_consumption
+    5.back to main
+[ content=2, address=tel:94771122336, requestId=1539379561484, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := h
+Selected response message := Do you want to enter more symptoms?
+    1.yes
+    2.no
+[ content=2, address=tel:94771122336, requestId=1539379594608, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := prompt
+session len : 0
+symtoms len : 2
+symtom :Array
+s : back_pain
+s : headache
+output ['Arthritis']
+
+[ content=#678*, address=tel:94771122336, requestId=1539399846276, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=000, address=tel:94771122336, requestId=1539399860196, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main1

@@ -1,0 +1,4 @@
+high_fever
+headache
+hip_joint_pain
+history_of_alcohol_consumption

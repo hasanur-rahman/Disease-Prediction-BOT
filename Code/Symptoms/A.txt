@@ -1,0 +1,6 @@
+acidity
+anxiety
+abdominal_pain
+acute_liver_failure
+altered_sensorium
+abnormal_menstruation

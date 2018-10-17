@@ -1,0 +1,8 @@
+muscle_wasting
+mood_swings
+mild_fever
+malaise
+muscle_weakness
+movement_stiffness
+muscle_pain
+mucoid_sputum
